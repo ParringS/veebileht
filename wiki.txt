@@ -1,0 +1,12 @@
+"Projekti wiki sisaldab:
+
+Mida veebileht tutvustab või mis on selle lehe eesmärk?
+Kes on tiimiliikmed?
+Milline on tiimisisene tööjaotus?
+Millised raskused esinesid? Mida õppisite?"
+
+
+Projekti liikmed:
+Siim Parring
+Tarmo Pungas
+Kaarel Vesilind
