@@ -5,8 +5,14 @@ Kes on tiimiliikmed?
 Milline on tiimisisene tööjaotus?
 Millised raskused esinesid? Mida õppisite?"
 
+Veebilehe eesmärk on anda lugejale informatsiooni erinevate jõuharjutuste kohta.
 
 Projekti liikmed:
 Siim Parring
 Tarmo Pungas
 Kaarel Vesilind
+
+Esialgne tööjaotus:
+Siim - HTML
+Tarmo - Javascript
+Kaarel - CSS
