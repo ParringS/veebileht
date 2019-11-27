@@ -24,12 +24,6 @@ img {
     transition: transform .2s;
 }
 
-.zoom:hover {
-    transform: scale(1.1);
-    /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-    opacity: 1;
-}
-
 .container {
     position: relative;
     width: 50%;
@@ -38,12 +32,14 @@ img {
 
 .overlay {
     position: absolute;
-    bottom: 0;
+    bottom: 4.2%;
+    left: 2.5px;
+    right: 3px;
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.5);
     /* Black see-through */
     color: #f1f1f1;
-    width: 100%;
+    width: 344.5px;
     transition: .5s ease;
     opacity: 0;
     color: white;
@@ -56,8 +52,8 @@ img {
     opacity: 1;
 }
 
-.container:hover .zoom{
-	transform: scale(1.1);
+.container:hover .zoom {
+    transform: scale(1.1);
     /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
     opacity: 1;
 }
