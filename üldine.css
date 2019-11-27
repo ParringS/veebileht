@@ -1,16 +1,13 @@
-img {
-    width: 400px;
-    height: auto;
-}
-
 body {
     background-image: url('http://hdwpro.com/wp-content/uploads/2017/12/Animated-Cool-Background.jpg');
 }
 
 h1 {
     color: white;
+    font-family: 'Tomorrow', sans-serif;
 }
 
 p {
     color: white;
+    font-family: 'Sulphur Point', sans-serif;
 }
