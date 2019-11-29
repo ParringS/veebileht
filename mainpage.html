@@ -6,12 +6,25 @@
 
 <head>
     <meta charset="UTF-8">
-
+    <script src="mainpage.js"></script>
     <title>Jõuharjutuste juhised</title>
 </head>
 
 <body>
-
+    <div class="navbar">
+            <a href="mainpage.html">Avaleht</a>
+            <a href="#news">Meist</a>
+            <div class="dropdown">
+            <button class="dropbtn" onclick="myFunction()">Kõik harjutused
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content" id="myDropdown">
+                <a href=".\vahe1.html">Rinnalt surumine</a>
+                <a href=".\vahe2.html">Jõutõmme</a>
+                <a href=".\vahe3.html">Kükid</a>
+            </div>
+            </div>
+    </div> 
     <h1>Jõuharjutuste juhised</h1>
     <p>Meie oleme eratreenerid Siim, Kaarel ja Tarmo. Meie missioon on õpetada inimesi tegema jõuharjusi õigesti, ilma end vigastamata. Selle jaoks oleme loonud tasuta veebilehe, kus kõik spordihuvilised saavad 
         õppida õiget tehnikat ja vormi. Kasutades meie veebilehte, on võimalik kolme kuuga kasvatada 20 kg lihast ja jõuda professionaalsele tasemele.
@@ -37,7 +50,6 @@
             <img class="zoom" src="https://generationiron.com/wp-content/uploads/2018/12/5-Reasons-Why-You-Should-Never-Squat.jpg" alt="Kükk">
         <div class="overlay"><p>Kükid</p></div>
 		</a>
-    </div>
 </body>
 
 </html>
