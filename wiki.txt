@@ -1,18 +1,15 @@
-"Projekti wiki sisaldab:
+Veebilehe eesmärk on anda lugejale informatsiooni erinevate jõuharjutuste kohta, täpsemalt selle kohta, kuidas neid teha õige tehnikaga.
 
-Mida veebileht tutvustab või mis on selle lehe eesmärk?
-Kes on tiimiliikmed?
-Milline on tiimisisene tööjaotus?
-Millised raskused esinesid? Mida õppisite?"
-
-Veebilehe eesmärk on anda lugejale informatsiooni erinevate jõuharjutuste kohta.
-
-Projekti liikmed:
+Projekti tiimiliikmed:
 Siim Parring
 Tarmo Pungas
 Kaarel Vesilind
 
 Esialgne tööjaotus:
 Siim - HTML
-Tarmo - Javascript
+Tarmo - Javascript, sisu
 Kaarel - CSS
+
+Tegelikkuses olid ülesanded vähem selgelt jaotunud – kõik panustasid mitmesse valdkonda.
+Raskust valmistas HTMLi, CSSi ja Javascripti koos tööle saamine nii, et kõik on eri failides.
+Õppisime kirjutama kolmes keeles, parandama koodis esinevaid vigu, lisama veebilehtedele põnevaid elemente.
