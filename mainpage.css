@@ -37,7 +37,6 @@ img {
     right: 20px;
     background: rgb(0, 0, 0);
     background: rgba(0, 0, 0, 0.5);
-    /* Black see-through */
     color: #f1f1f1;
     width: 310px;
     transition: .2s ease;
@@ -56,6 +55,5 @@ img {
 
 .container:hover .zoom {
     transform: scale(1.1);
-    /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
     opacity: 1;
 }
